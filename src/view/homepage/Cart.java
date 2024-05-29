@@ -15,8 +15,6 @@ public class Cart {
 		
 	}
 	
-	
-
 	public String getCupName() {
 		return cupName;
 	}
