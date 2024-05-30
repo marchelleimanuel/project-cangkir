@@ -12,7 +12,7 @@ Cangkir is an application designed for selling various types of cups. The applic
 - JavaFX
 - MySQL
 
-## Getting Started (Eclipse)
+## Getting Started (Eclipse IDE)
 ```
 - Clone the repository
 - Open the localhost/phpmyadmin/
@@ -20,7 +20,7 @@ Cangkir is an application designed for selling various types of cups. The applic
 - Copy the query given in sql file
 - Go to SQL tab in localhost/phpmyadmin/ then paste the query
 - Click Go
-- Run the application in Eclipse
+- Run the application in Eclipse IDE
 ```
 
 ## Demo 
