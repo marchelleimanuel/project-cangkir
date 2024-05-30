@@ -12,6 +12,17 @@ Cangkir is an application designed for selling various types of cups. The applic
 - JavaFX
 - MySQL
 
+## Getting Started (Eclipse)
+```
+- Clone the repository
+- Open the localhost/phpmyadmin/
+- Make sure to create the database named 'cangkir'
+- Copy the query given in sql file
+- Go to SQL tab in localhost/phpmyadmin/ then paste the query
+- Click Go
+- Run the application in Eclipse
+```
+
 ## Demo 
 Check out the demo video of Cangkir: 
 
