@@ -23,6 +23,15 @@ Cangkir is an application designed for selling various types of cups. The applic
 - Run the application in Eclipse IDE
 ```
 
+### NOTE
+You can login use these username and password: 
+- As a 'user'
+  - Username: dummyuser
+  - Password: dummyuser123
+- As a 'admin'
+  - Username: admin
+  - Password: admin123
+
 ## Demo 
 Check out the demo video of Cangkir: 
 
