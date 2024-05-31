@@ -34,4 +34,5 @@ You can login use these username and password:
 
 ## Demo 
 Check out the demo video of Cangkir: 
+- [Demo](https://youtu.be/XNXfT7JKU2c).
 
